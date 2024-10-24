@@ -1,0 +1,9 @@
+kafka-python==2.0.2
+schedule==1.1.0
+psycopg2-binary
+websocket-client
+pandas==2.0.2
+matplotlib==3.7.5
+urllib3
+requests
+ratelimit
